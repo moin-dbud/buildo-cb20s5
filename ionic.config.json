@@ -1,8 +1,0 @@
-{
-  "name": "Buildo",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "react-vite",
-  "id": "d5a74e48"
-}
